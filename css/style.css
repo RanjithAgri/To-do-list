@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: orangered;
+}
+
+.firstSec{
+    background-color: white;
+    width: 300px;
+    text-align: center;
+    margin: 120px auto;
+}
+li{
+    padding: 5px;
+    list-style-type:none;
+}
+.main{
+    height:200px; 
+    overflow:auto;
+    width: 300px;
+    overflow-x:auto;}
+#lis{
+    text-align: left;
+    margin-left: 16px;
+    padding-left: 20px;
+}
+h1{
+    padding-top: 40px;
+}
+.lastDiv{
+    padding-bottom: 40px;
+}
